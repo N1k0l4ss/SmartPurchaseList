@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SmartPurchaseList" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/buttons_text_and_draw_dark</item>
+        <item name="colorPrimaryVariant">@color/notifications_bar_dark</item>
+
+        <item name="colorButtonNormal">@color/notifications_bar_dark</item>
+
+        <item name="colorOnPrimary">@color/buttons_text_and_draw_dark</item>
+        <item name="android:textColorSecondary">@color/buttons_text_and_draw_dark </item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/checkbox_dark</item>
+        <item name="colorSecondaryVariant">@color/checkbox_dark</item>
+        <item name="colorOnSecondary">@color/buttons_text_and_draw_dark</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+
+
+</resources>

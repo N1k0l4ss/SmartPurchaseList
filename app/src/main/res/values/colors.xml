@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    Colors for light-->
+    <color name="buttons_and_tint_light">#FF9800</color>
+    <color name="notifications_bar_light">#C17300</color>
+    <color name="checkbox_light">#E88A00</color>
+    <color name="teal_700">#00504F</color>
+    <color name="buttons_text_and_draw_light">#FFFFFFFF</color>
+    <color name="actions_color_light">#FFFFFF</color>
+    <color name="text_general">#000000</color>
+<!--    Colors for dark-->
+    <color name="notifications_bar_dark">#3A3A3C</color>
+    <color name="actions_color_dark">#FFFFFF</color>
+    <color name="buttons_text_and_draw_dark">#FFFFFFFF</color>
+    <color name="checkbox_dark">#770000</color>
+    <color name="choice_item_color">#86770000</color>
+</resources>
