@@ -1,0 +1,26 @@
+mydatabase/MyDbHelper.java
+ mydatabase.MyDbHelper
+models/Product.java
+ models.Product
+constants/DBC.java
+ constants.DBC
+models/ShoppingList.java
+ models.ShoppingList
+com/n1k0l4s/smartpurchaselist/BuildConfig.java
+ com.n1k0l4s.smartpurchaselist.BuildConfig
+mydatabase/ProductDB.java
+ mydatabase.ProductDB
+mydatabase/ShoppingListDB.java
+ mydatabase.ShoppingListDB
+com/n1k0l4s/smartpurchaselist/adapter/ProductAdapter.java
+ com.n1k0l4s.smartpurchaselist.adapter.ProductAdapter
+com/n1k0l4s/smartpurchaselist/adapter/PdListAdapter.java
+ com.n1k0l4s.smartpurchaselist.adapter.PdListAdapter
+com/n1k0l4s/smartpurchaselist/MainActivity.java
+ com.n1k0l4s.smartpurchaselist.MainActivity
+ com.n1k0l4s.smartpurchaselist.MainActivity$1
+mydatabase/SingleTone.java
+ mydatabase.SingleTone
+com/n1k0l4s/smartpurchaselist/ProductsActivity.java
+ com.n1k0l4s.smartpurchaselist.ProductsActivity
+ com.n1k0l4s.smartpurchaselist.ProductsActivity$1
